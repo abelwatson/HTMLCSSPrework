@@ -1,0 +1,33 @@
+.wrapper{
+    margin: 5px;
+}
+
+/* 3 */
+h1{
+    text-align: center;
+}
+/*this sets the background color of the entire body*/
+body{
+    background-color: lightgray;
+}
+
+/* 4 */
+.background1{
+    background-color: lightblue;
+}
+
+/* 5 */
+.background2{
+    background-image:url("../3-assets/bluewaves.jpg");
+}
+
+/* 7 */
+.table, th, td{
+    font-weight: bolder;
+    border: 1px solid black;
+}
+
+/* 8 */
+.background2{
+    font-weight: bolder;
+}

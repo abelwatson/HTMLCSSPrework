@@ -1,0 +1,19 @@
+body{
+    background-color: lightblue;
+    font-style: oblique;
+    margin-top: 20px;
+}
+#welcometitle{
+    text-align: center;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+}
+.roasts{
+    border: 2px double black;
+    text-align: flex;
+}
+img{
+    width: 100%;
+    height: 66%;
+}
